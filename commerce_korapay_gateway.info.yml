@@ -1,0 +1,9 @@
+name: Commerce Korapay Gateway
+type: module
+description: 'Provides Drupal Commerce integration for Korapay Payments.'
+core: 8.x
+package: Commerce
+dependencies:
+  - commerce:commerce_payment
+
+

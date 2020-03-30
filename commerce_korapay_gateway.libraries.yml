@@ -1,0 +1,15 @@
+korapay_live:
+    version: VERSION
+    js: 
+        "https://korablobstorage.blob.core.windows.net/modal-bucket/korapay-collections.min.js": {}
+
+
+korapay:
+  version: VERSION
+  js:
+    js/korapay_form.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once
+    - core/drupal
+    - core/drupalSettings

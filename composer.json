@@ -1,0 +1,22 @@
+{
+    "name": "drupal/commerce_korapay_gateway",
+    "type": "drupal-module",
+    "description": "Provides Drupal Commerce integration for Korapay.",
+    "keywords": [
+        "Drupal",
+        "Commerce",
+        "Korapay"
+    ],
+    "authors": [
+        {
+            "name": "Divine Olokor",
+            "homepage": "https://www.linkedin.com/in/divine-olokor-5bb10b18a/"
+        }
+    ],
+    "homepage": "https://www.drupal.org/project/commerce",
+    "license": "GPL-2.0+",
+    "require": {
+        "drupal/commerce": "~2.0"
+    },
+"minimum-stability": "dev"
+}
