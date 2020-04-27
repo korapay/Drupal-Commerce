@@ -57,4 +57,4 @@ This module requires the following modules:
 
 ---
 
-This project has been developed by korapay development team
+This project has been developed by Korapay Development team

@@ -9,8 +9,8 @@
     ],
     "authors": [
         {
-            "name": "Divine Olokor",
-            "homepage": "https://www.linkedin.com/in/divine-olokor-5bb10b18a/"
+            "name": "Divine Olokor,Korapay",
+            "homepage": "https://korapay.com"
         }
     ],
     "homepage": "https://www.drupal.org/project/commerce",
@@ -18,5 +18,5 @@
     "require": {
         "drupal/commerce": "~2.0"
     },
-"minimum-stability": "dev"
+    "minimum-stability": "dev"
 }
