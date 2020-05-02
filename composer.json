@@ -1,5 +1,5 @@
 {
-    "name": "drupal/commerce_korapay_gateway",
+    "name": "drupal/Commerce_Korapay_Gateway",
     "type": "drupal-module",
     "description": "Provides Drupal Commerce integration for Korapay.",
     "keywords": [
@@ -9,8 +9,8 @@
     ],
     "authors": [
         {
-            "name": "Divine Olokor,Korapay",
-            "homepage": "https://korapay.com"
+            "name": "Korapay Developers",
+            "homepage": "https://korapay.com/developers"
         }
     ],
     "homepage": "https://www.drupal.org/project/commerce",
